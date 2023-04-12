@@ -36,15 +36,15 @@ Zbiór danych dotyczy mistrzostw świata, które mają odbyć się w 2023 roku w
 - raport powinien zawierać alfabetyczną listę sportów albo dyscyplin, +
 - raport powinien zawierać liczbę wierszy odpowiadającą liczbie unikalnych sportów albo dyscyplin, +
 - raport powinien przedstawiać listę sportów albo dyscyplin w taki sposób, aby wszystkie były widoczne jednocześnie[3],+
-- raport powinien zawierać oś czasu w skali tygodniowej,
+- raport powinien zawierać oś czasu w skali tygodniowej, +
 - raport powinien przedstawiać ceremonie otwarcia i zamknięcia w postaci kamieni milowych,+
-- raport powinien przedstawiać zawsze aktualny procent ukończenia danych zawodów[4],
+- raport powinien przedstawiać zawsze aktualny procent ukończenia danych zawodów[4],+
 - raport powinien zawierać legendę, która będzie rozróżniać mistrzostwa świata w zależności od federacji odpowiedzialnej za ich organizację, +
 - raport powinien wyświetlać informację o kraju albo krajach będących organizatorami mistrzostw świata po najechaniu kursorem na dane zawody, +
-- raport powinien umożliwiać filtrowanie danych względem federacji[5],
-- raport powinien umożliwiać filtrowanie danych względem kraju[5],
-- raport powinien umożliwiać filtrowanie danych względem płci[5][6],
-- raport powinien umożliwiać filtrowanie danych względem zakresu dat[7].
+- raport powinien umożliwiać filtrowanie danych względem federacji[5],+
+- raport powinien umożliwiać filtrowanie danych względem kraju[5],+
+- raport powinien umożliwiać filtrowanie danych względem płci[5][6],+
+- raport powinien umożliwiać filtrowanie danych względem zakresu dat[7]. +
 
 [3] Raport nie powinien zmuszać użytkownika do korzystania z pionowego paska nawigacji.
 
@@ -58,7 +58,7 @@ Zbiór danych dotyczy mistrzostw świata, które mają odbyć się w 2023 roku w
 
 ### Wymagania niefunkcjonalne
 
-- raport powinien składać się wyłącznie z jednej strony,
+- raport powinien składać się wyłącznie z jednej strony,+
 - raport powinien zawierać nagłówek, który w jednoznaczny sposób będzie identyfikować jego treść,
 - raport powinien być czytelny i przejrzysty[8],
 - raport powinien być intuicyjny i łatwy w obsłudze[8].
