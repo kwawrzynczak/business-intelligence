@@ -32,15 +32,15 @@ Zbiór danych dotyczy mistrzostw świata, które mają odbyć się w 2023 roku w
 
 ### Wymagania funkcjonalne
 
-- raport powinien przedstawiać terminy mistrzostw świata w każdym z olimpijskich sportów zimowych,
-- raport powinien zawierać alfabetyczną listę sportów albo dyscyplin,
-- raport powinien zawierać liczbę wierszy odpowiadającą liczbie unikalnych sportów albo dyscyplin,
-- raport powinien przedstawiać listę sportów albo dyscyplin w taki sposób, aby wszystkie były widoczne jednocześnie[3],
+- raport powinien przedstawiać terminy mistrzostw świata w każdym z olimpijskich sportów zimowych, +
+- raport powinien zawierać alfabetyczną listę sportów albo dyscyplin, +
+- raport powinien zawierać liczbę wierszy odpowiadającą liczbie unikalnych sportów albo dyscyplin, +
+- raport powinien przedstawiać listę sportów albo dyscyplin w taki sposób, aby wszystkie były widoczne jednocześnie[3],+
 - raport powinien zawierać oś czasu w skali tygodniowej,
-- raport powinien przedstawiać ceremonie otwarcia i zamknięcia w postaci kamieni milowych,
+- raport powinien przedstawiać ceremonie otwarcia i zamknięcia w postaci kamieni milowych,+
 - raport powinien przedstawiać zawsze aktualny procent ukończenia danych zawodów[4],
-- raport powinien zawierać legendę, która będzie rozróżniać mistrzostwa świata w zależności od federacji odpowiedzialnej za ich organizację,
-- raport powinien wyświetlać informację o kraju albo krajach będących organizatorami mistrzostw świata po najechaniu kursorem na dane zawody,
+- raport powinien zawierać legendę, która będzie rozróżniać mistrzostwa świata w zależności od federacji odpowiedzialnej za ich organizację, +
+- raport powinien wyświetlać informację o kraju albo krajach będących organizatorami mistrzostw świata po najechaniu kursorem na dane zawody, +
 - raport powinien umożliwiać filtrowanie danych względem federacji[5],
 - raport powinien umożliwiać filtrowanie danych względem kraju[5],
 - raport powinien umożliwiać filtrowanie danych względem płci[5][6],
