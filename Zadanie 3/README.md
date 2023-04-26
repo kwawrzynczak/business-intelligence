@@ -37,16 +37,16 @@ TMDb Score: ocena użytkowników portalu TMDb.
 
 ### Wymagania funkcjonalne
 
-raport powinien przedstawiać ofertę HBO Max z podziałem na filmy i seriale,
+raport powinien przedstawiać ofertę HBO Max z podziałem na filmy i seriale, +
 raport powinien przedstawiać łączną liczbę produkcji, +
 raport powinien przedstawiać średnią ocenę użytkowników portalu TMDb[3], +
 raport powinien przedstawiać średnią ocenę użytkowników portalu IMDb[3], +
 raport powinien przedstawiać łączną liczbę ocen użytkowników portalu IMDb[3], +
 raport powinien przedstawiać pięć filmów o największej popularności na portalu TMDb posortowanych malejąco po tej wartości[4], +
-raport powinien przedstawiać udział krajów będących producentami w łącznej liczbie filmów[5],
-raport powinien przedstawiać liczbę filmów w zależności od czasu ich trwania[6][7],
+raport powinien przedstawiać udział krajów będących producentami w łącznej liczbie filmów[5], +
+raport powinien przedstawiać liczbę filmów w zależności od czasu ich trwania[6][7], +
 raport powinien przedstawiać pięć seriali o największej liczbie ocen użytkowników portalu IMDb posortowanych malejąco po tej wartości[4], +
-raport powinien przedstawiać udział kategorii wiekowych w łącznej liczbie seriali[5],
+raport powinien przedstawiać udział kategorii wiekowych w łącznej liczbie seriali[5], +
 raport powinien przedstawiać liczbę seriali w zależności od liczby ich sezonów[7][8],
 raport powinien umożliwiać jednoznaczną identyfikację produkcji na podstawie jej tytułu[9],
 raport powinien umożliwiać filtrowanie danych względem kategorii wiekowej[10][11],
