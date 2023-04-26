@@ -29,16 +29,16 @@ Zbiór danych dotyczy wybranych filmów Disneya z lat 1937-2016.
 
 ### Wymagania funkcjonalne
 
-- raport powinien przedstawiać łączną liczbę filmów,
-- raport powinien przedstawiać łączny przychód z filmów,
-- raport powinien przedstawiać łączny przychód z filmów z uwzględnieniem inflacji,
-- raport powinien przedstawiać procentowy udział kategorii filmowych w łącznym przychodzie z filmów z uwzględnieniem inflacji[2],
-- raport powinien przedstawiać dziesięć filmów o największej różnicy pomiędzy przychodem z filmu z uwzględnieniem inflacji a przychodem z filmu posortowanych malejąco po tej różnicy[3],
-- raport powinien przedstawiać przychód z filmów i przychód z filmów z uwzględnieniem inflacji w kolejnych latach[4],
-- raport powinien umożliwiać jednoznaczną identyfikację filmu na podstawie jego tytułu[5],
-- raport powinien umożliwiać filtrowanie danych względem gatunku filmowego[6][7],
-- raport powinien umożliwiać filtrowanie danych względem kategorii wiekowej[6][7],
-- raport powinien umożliwiać filtrowanie danych względem roku premiery[6].
+-[X] raport powinien przedstawiać łączną liczbę filmów,
+-[X] raport powinien przedstawiać łączny przychód z filmów,
+-[X] raport powinien przedstawiać łączny przychód z filmów z uwzględnieniem inflacji,
+-[X] raport powinien przedstawiać procentowy udział kategorii filmowych w łącznym przychodzie z filmów z uwzględnieniem inflacji[2],
+-[] raport powinien przedstawiać dziesięć filmów o największej różnicy pomiędzy przychodem z filmu z uwzględnieniem inflacji a przychodem z filmu posortowanych malejąco po tej różnicy[3],
+-[] raport powinien przedstawiać przychód z filmów i przychód z filmów z uwzględnieniem inflacji w kolejnych latach[4],
+-[X] raport powinien umożliwiać jednoznaczną identyfikację filmu na podstawie jego tytułu[5],
+-[X] raport powinien umożliwiać filtrowanie danych względem gatunku filmowego[6][7],
+-[X] raport powinien umożliwiać filtrowanie danych względem kategorii wiekowej[6][7],
+-[X] raport powinien umożliwiać filtrowanie danych względem roku premiery[6].
 
 [2] Wizualizacja nie powinna wyświetlać danych dla kategorii filmowej "Unknown".
 [3] Wizualizacja powinna wyświetlać także wartości kryterium sortowania.
